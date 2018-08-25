@@ -30,7 +30,7 @@ A split total that splits the bill accoriding to the value of the split slider.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/fj2YDcx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tipcalculatordemo](https://user-images.githubusercontent.com/19617642/44613369-29bfa480-a7d8-11e8-9ee9-7a03ac6eb94b.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
